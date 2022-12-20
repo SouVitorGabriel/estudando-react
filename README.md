@@ -25,5 +25,12 @@ Colocarei o meu primeiro projeto local em algum lugar aqui e depois troco por um
 
 Funcionais são mais usados pois são mais legíveis e simples de escrever, 99% das coisas podem ser feitas usando componentes de função ao invés de classes.
 
-### Preciso estudar:
+### **Preciso estudar:**
  * Hooks;
+ * Props sem usar a palavra props, como no exemcplo abaixo:
+
+ ```javascript
+(function Olar = ({quem}) => {
+    console.log("Olar :" + {quem} `e Olar ${quem} de novo`);
+})();
+```
