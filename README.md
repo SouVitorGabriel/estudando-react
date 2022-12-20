@@ -12,3 +12,18 @@ Essas funções geralmente são usadas para isolar o que seria um Main() do arqu
     console.log("Olar!");
 })();
 ```
+
+---
+
+Colocarei o meu primeiro projeto local em algum lugar aqui e depois troco por um link
+
+------------
+
+## Sobre Componentes
+---
+### Funcionais vs classes
+
+Funcionais são mais usados pois são mais legíveis e simples de escrever, 99% das coisas podem ser feitas usando componentes de função ao invés de classes.
+
+### Preciso estudar:
+ * Hooks;
