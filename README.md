@@ -34,3 +34,6 @@ Funcionais são mais usados pois são mais legíveis e simples de escrever, 99% 
     console.log("Olar :" + {quem} `e Olar ${quem} de novo`);
 })();
 ```
+
+### **Preciso estudar #2:**
+ * Desestruturação de propriedades;
