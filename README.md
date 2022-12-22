@@ -37,3 +37,5 @@ Funcionais são mais usados pois são mais legíveis e simples de escrever, 99% 
 
 ### **Preciso estudar #2:**
  * Desestruturação de propriedades;
+ * *"Template string"* e coisas escritas entre crases
+ * Pesquisar sobre CSS *$::after*
